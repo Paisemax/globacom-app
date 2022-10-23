@@ -12,7 +12,7 @@
 <h1 align="center">Welcome to Landmark Software Solutions, Virginia, USA Office.</h1>
 <h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
 	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.
-	Join us this every Monday to experience a life changing DevOps career by 6:00pm EST in 2023
+	Join us every Monday to experience a life changing DevOps career by 6:00pm EST in 2023.
 	Jesus is Lord</h1>
 <hr>
 <br>
